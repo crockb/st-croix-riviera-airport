@@ -1,0 +1,36 @@
+v1.0.8 	- Added recaptch to contact form
+        - Updated fontawesome
+        - Updated API to handle child themes
+
+v1.0.7  - Updated nicescroll.js
+
+v1.0.6  - Added resource section in customizer
+        - Fixed mobile menu scrollto issue
+        - Fixed scrollto script security issue
+        - Cleaned up text domains
+        
+v1.0.5  - Made featured items (widget) linkable
+
+v1.0.4  - Fix meta_box error
+        - Update Credit link
+        
+v1.0.3  - Fix in featured item widget, esc_attr was misspelled
+        - Fix for banner button class
+        - Fix for custom CSS 
+        - Fix for internal page banner (featured image)
+        
+v1.0.2 	- Changed theme text-domain
+        - Moved fonts, css, js, images, to /assets/
+        - Made all text translate ready
+        - Added WooCommerce support
+        - Added userguide link
+        - Changes function prefixing
+        - Added title-tag support
+        - Added API classes
+        - Added migration script to capture many free version options
+
+v1.0.1  - Added custom css
+        - Added missing URL option on About Content Widget
+        - Fixed offset on scrollto menu
+
+v1.0.0  - Initial Launch 
